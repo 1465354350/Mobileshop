@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\b48794f6e8e30205779e5cd5b46937b5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4015fe70bd560743c7245038ca247302\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\10c9660270af1b27f8a2b71fe60b94ed\AndroidManifest.xml:17:1-31:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:8:5-10:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:8:5-10:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:8:5-10:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\b48794f6e8e30205779e5cd5b46937b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\b48794f6e8e30205779e5cd5b46937b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4015fe70bd560743c7245038ca247302\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4015fe70bd560743c7245038ca247302\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\10c9660270af1b27f8a2b71fe60b94ed\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\10c9660270af1b27f8a2b71fe60b94ed\AndroidManifest.xml:21:5-23:58
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:8:5-10:12
+INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:8:5-10:12
+	tools:overrideLibrary
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:9:1-55
+	android:targetSdkVersion
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:8:5-10:12
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:8:5-10:12
+		INJECTED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml
+application
+ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:12:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\b48794f6e8e30205779e5cd5b46937b5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\b48794f6e8e30205779e5cd5b46937b5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4015fe70bd560743c7245038ca247302\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4015fe70bd560743c7245038ca247302\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\10c9660270af1b27f8a2b71fe60b94ed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\10c9660270af1b27f8a2b71fe60b94ed\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:16:9-40
+activity#com.jingchen.tbviewer.MainActivity
+ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:18:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from G:\Mobilephoneshop\ScrollViewContainer\src\main\AndroidManifest.xml:23:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\b48794f6e8e30205779e5cd5b46937b5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4015fe70bd560743c7245038ca247302\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4015fe70bd560743c7245038ca247302\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\10c9660270af1b27f8a2b71fe60b94ed\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\10c9660270af1b27f8a2b71fe60b94ed\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\b48794f6e8e30205779e5cd5b46937b5\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.0.0] C:\Users\ޱޱ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0.aar\b48794f6e8e30205779e5cd5b46937b5\AndroidManifest.xml:24:13-51

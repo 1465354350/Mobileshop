@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\c.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_g.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\g.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_j.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\j.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_k.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\k.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_d.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\d.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_l.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\l.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_a.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\a.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_h.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\h.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_e.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\e.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_b.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\b.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_m.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\m.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_f.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\f.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_i.jpg.flat",
+        "source": "G:\\Mobilephoneshop\\ScrollViewContainer\\src\\main\\res\\drawable-xhdpi\\i.jpg"
+    },
+    {
+        "merged": "G:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\薇薇\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\10c9660270af1b27f8a2b71fe60b94ed\\res\\drawable\\notification_icon_background.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jun 27 23:23:37 CST 2020
+0.baseType=DIRECTORY
+0.base=G\:\\Mobilephoneshop\\ScrollViewContainer\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
